@@ -17,7 +17,7 @@ Using any of the add-ons listed below, the following directories are made availa
 
 ### Installing and using the Samba add-on
 
-The Samba add-on creates smb shares which can be accessed from another computer. You can also edit files using the editor of your preference from your client computer. This add-on can be installed from the add-on store's official repository.
+The Samba add-on creates SMB shares which can be accessed from another computer. You can also edit files using the editor of your preference from your client computer. This add-on can be installed from the add-on store's official repository.
 
 To configure the Samba add-on, you only need to set a user and password of your choice on the configuration page, save, and then start the add-on. The add-on will not start without setting a password!
 
